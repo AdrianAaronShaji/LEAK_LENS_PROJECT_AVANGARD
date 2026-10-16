@@ -1,4 +1,4 @@
-LEAKLENS
+LEAKLENS:
 
 An end-to-end retail analytics project that transforms sales, customer, product, inventory, and campaign data into actionable business insights using data analysis, interactive visualizations, and machine learning.
 
